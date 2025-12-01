@@ -137,3 +137,13 @@ dist
 # Vite logs files
 vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
+
+# Vite build output
+dist
+dist-ssr
+
+# Local environment overrides
+*.local
+
+# macOS metadata
+.DS_Store
